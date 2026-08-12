@@ -1,0 +1,125 @@
+body {
+    background-color:white;
+    margin: 0px;
+  }
+  
+  .image {
+    float: right;
+    margin-left: 15px;
+    margin-right: 15px;
+    width: 200px;
+    height: 260px; 
+  }
+
+
+  footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    
+  
+  }
+
+
+  .decorative-footer-bar {
+    width: 100%;
+    padding: 20px 0;
+    background-color:#8C234A;
+    border-top: 5px solid #F2A413 ;
+    
+    
+    
+    text-align: center;
+    color: #ffffff;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-size: xx-large;
+  }
+
+
+.Baslica {
+  float: right;
+  margin-left: 15px;
+  margin-right: 15px;
+  width: 200px;
+  height: 260px; 
+  
+
+
+
+}
+
+
+  span {
+     color: white;
+     font-size: xx-large; 
+     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+
+  }
+  
+
+  h2 {
+
+      float: left;
+
+    
+
+
+  }
+  
+  main{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    }
+
+  h1 {
+    color:#e9e7e7;
+    text-align: center;
+    font-size: xx-large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    margin-top: 2px;
+  }
+  
+  .navbar ul{
+    list-style-type: none;
+    background-color:#36D9D9;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+  }
+
+  .navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+  }
+
+.navbar a:hover{
+color: black;
+
+}
+
+.navbar li{
+
+float: left;
+
+}
+
+.active {
+  background-color:#F2A413 ;
+}
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+
+ header {
+  background-color: #8C234A;
+  padding: 20px; 
+  
+  }
+
+
